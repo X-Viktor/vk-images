@@ -1,0 +1,7 @@
+[client]
+database = vk-images
+host = 89.208.199.231
+port = 3306
+user = www
+password = 7bZ#KK558e25u8JP
+default-character-set = utf8

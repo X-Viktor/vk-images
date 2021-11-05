@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pychache__/
+*.pyc
+
+# IDE
+.idea
+.vscode
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# macOS
+.DS_Store
+
+# Static files
+staticfiles/
+
+# Logs
+logs/
